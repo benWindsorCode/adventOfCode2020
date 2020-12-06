@@ -1,5 +1,7 @@
-# adventOfCode2020
+# Advent Of Code 2020
 Advent of code 2020 solution attempts as an excuse to learn/practice APL (Dyalog APL to be precise).
+
+AoC: https://adventofcode.com/2020
 
 ## Learning APL
 If you are interested in APL see the first chapter of Mastering Dyalog APL for a good overview of the language: https://www.dyalog.com/mastering-dyalog-apl.htm
